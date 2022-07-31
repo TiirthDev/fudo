@@ -4,7 +4,7 @@ import css from '../../styles/OrderPage.module.css'
 import { UilBill, UilBox } from '@iconscout/react-unicons'
 import Cooking from '../../assets/cooking.png'
 import Image from "next/image";
-import Onway from "../../assets/Onway.png"
+import Onway from "../../assets/onway.png"
 import Head from 'next/head'
 import Spinner from '../../assets/spinner.svg'
 import { useEffect } from "react";
